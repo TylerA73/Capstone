@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: 55bd4c5e8d8c2b447a777c4778548c92
+timeCreated: 1525037089
+=======
+guid: 36cd9c0c2a25acc4194bff3611d1cc0b
+timeCreated: 1524783790
+>>>>>>> 185fde6... Inventory Add
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
