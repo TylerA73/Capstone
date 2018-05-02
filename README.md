@@ -14,3 +14,5 @@ Unity Version: 2017.3.1f1
 ```git rebase master [branch]```  
     Need to do this if master is ahead of your working branch before merge
     request will be accepted or else, CONFLICTS
+    
+Git Cheatsheet: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
