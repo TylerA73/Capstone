@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Level Name="labyrinth">
+    <Treasure Open="false" lx="76" ly="5" lz="30" rx="0" ry="0" rz="0">
+    </Treasure>
+    <Treasure Open="true" lx="-33" ly="5" lz="-20.5" rx="0" ry="0" rz="0">
+    </Treasure>
+    <Treasure Open="true" lx="-1" ly="5" lz="-50" rx="0" ry="0" rz="0">
+    </Treasure>
+</Level>
