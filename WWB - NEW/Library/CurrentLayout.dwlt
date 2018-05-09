@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 613}
   m_MaxSize: {x: 18008, y: 18063}
   vertical: 0
-  controlID: 24759
+  controlID: 5483
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 436, y: 613}
   m_MaxSize: {x: 14006, y: 18063}
   vertical: 1
-  controlID: 24636
+  controlID: 5484
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 436, y: 492}
   m_MaxSize: {x: 14006, y: 14042}
   vertical: 0
-  controlID: 24637
+  controlID: 5485
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 24638
+  controlID: 5415
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -416,14 +416,14 @@ MonoBehaviour:
     height: 586
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 10942.265634863243
+  lastFramingTime: 2098.665698947592
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1838.5618, y: 178.4555, z: 658.05505}
+    m_Target: {x: 1745.6686, y: 73.0562, z: 505.23053}
     speed: 2
-    m_Value: {x: 1838.5618, y: 178.4555, z: 658.05505}
+    m_Value: {x: 1745.6686, y: 73.0562, z: 505.23053}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -447,13 +447,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.27962664, y: -0.4465362, z: 0.14920199, w: 0.8367623}
+    m_Target: {x: 0.38909736, y: -0.56340265, z: 0.33999544, w: 0.64467937}
     speed: 2
-    m_Value: {x: 0.27962413, y: -0.44653222, z: 0.14920065, w: 0.8367548}
+    m_Value: {x: 0.38909197, y: -0.56339484, z: 0.33999074, w: 0.6446704}
   m_Size:
-    m_Target: 1341.2186
+    m_Target: 2493.0237
     speed: 2
-    m_Value: 1341.2186
+    m_Value: 2493.0237
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -497,6 +497,7 @@ MonoBehaviour:
     - {fileID: 110767668, guid: 89bb554d79aa99745aa5eab5d3f79e41, type: 2}
     - {fileID: 1107766508300213366, guid: 54eacd3f8b9f437478731a6c62b0255f, type: 2}
     - {fileID: 110741600, guid: f016feed226515f41939f2dbd6392449, type: 2}
+    - {fileID: 1107279779523203188, guid: 32a58bac1c461f741a138554187e98b1, type: 2}
     m_ValueSerializationHelper:
     - e00: 0.11255087
       e01: 0
@@ -506,6 +507,22 @@ MonoBehaviour:
       e11: 0.11255087
       e12: 0
       e13: 175.32852
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    - e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
       e20: 0
       e21: 0
       e22: 1
@@ -615,9 +632,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2aa2f1ff
-    m_LastClickedID: -941526
-    m_ExpandedIDs: bc53ffff00000000a0660000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 9efbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -679,19 +696,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/_Textures
+    - Assets/Medieval house
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/_Textures
+  - Assets/Medieval house
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Lukas\Desktop\GitHub\Capstone\WWB - NEW
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 76630000
-    m_LastClickedID: 25462
-    m_ExpandedIDs: 00000000846100005a620000d86300002e640000306400002465000074650000b8560100ba560100c0560100eaf3010000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 87}
+    m_SelectedIDs: 8a350000
+    m_LastClickedID: 13706
+    m_ExpandedIDs: 000000004a290000742900008e290000182c0000ae2f0000c42f0000723000009c310000a8310000be3400005036000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -719,7 +736,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000846100005a620000d86300002e640000306400002465000074650000b8560100ba560100c0560100eaf3010000ca9a3bffffff7f
+    m_ExpandedIDs: 000000004a290000742900008e290000182c0000ae2f0000c42f0000723000009c310000a8310000be3400005036000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -771,7 +788,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 85.7153}
+    m_ScrollPosition: {x: 0, y: 23}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 110
 --- !u!114 &20
