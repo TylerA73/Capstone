@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 613}
   m_MaxSize: {x: 18008, y: 18063}
   vertical: 0
-  controlID: 5483
+  controlID: 3098
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 436, y: 613}
   m_MaxSize: {x: 14006, y: 18063}
   vertical: 1
-  controlID: 5484
+  controlID: 3099
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 436, y: 492}
   m_MaxSize: {x: 14006, y: 14042}
   vertical: 0
-  controlID: 5485
+  controlID: 3100
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 5415
+  controlID: 3262
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -421,9 +421,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1745.6686, y: 73.0562, z: 505.23053}
+    m_Target: {x: 1880.0615, y: -23.787392, z: 461.4042}
     speed: 2
-    m_Value: {x: 1745.6686, y: 73.0562, z: 505.23053}
+    m_Value: {x: 1880.0615, y: -23.787392, z: 461.4042}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -449,11 +449,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.38909736, y: -0.56340265, z: 0.33999544, w: 0.64467937}
     speed: 2
-    m_Value: {x: 0.38909197, y: -0.56339484, z: 0.33999074, w: 0.6446704}
+    m_Value: {x: -0.38909736, y: 0.56340265, z: -0.33999544, w: -0.64467937}
   m_Size:
-    m_Target: 2493.0237
+    m_Target: 281.77
     speed: 2
-    m_Value: 2493.0237
+    m_Value: 281.77
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -631,10 +631,10 @@ MonoBehaviour:
     height: 251
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 9efbffff00000000
+    scrollPos: {x: 0, y: 102}
+    m_SelectedIDs: 1e3a0000
+    m_LastClickedID: 14878
+    m_ExpandedIDs: fe8bffff9efbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -696,19 +696,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Medieval house
+    - Assets/SkyBoxes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Medieval house
+  - Assets/SkyBoxes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Lukas\Desktop\GitHub\Capstone\WWB - NEW
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 87}
-    m_SelectedIDs: 8a350000
-    m_LastClickedID: 13706
-    m_ExpandedIDs: 000000004a290000742900008e290000182c0000ae2f0000c42f0000723000009c310000a8310000be3400005036000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 59}
+    m_SelectedIDs: 842a0000
+    m_LastClickedID: 10884
+    m_ExpandedIDs: 000000004a2900008e2900001e2c0000b62f0000cc2f00007a300000a6310000b2310000ca340000d83500005e36000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -736,7 +736,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004a290000742900008e290000182c0000ae2f0000c42f0000723000009c310000a8310000be3400005036000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000004a290000742900008e2900001e2c0000b62f0000cc2f00007a300000a6310000b2310000ca3400005e36000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -788,7 +788,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 23}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 110
 --- !u!114 &20
